@@ -102,27 +102,3 @@ project.run()
 ## License
 [MIT](LICENSE)
 ```
-
----
-
-### **Tips for a Great README**
-1. **Start with a clear title and description**.
-2. **Include visual aids** (screenshots, GIFs, diagrams).
-3. **Use badges** for build status, version, etc. (e.g., from [shields.io](https://shields.io)):
-   ```markdown
-   ![Version](https://img.shields.io/badge/version-1.0-blue)
-   ```
-4. **Link to detailed docs** if needed.
-5. **Keep it updated** as your project evolves.
-
----
-
-### **Tools to Preview Markdown**
-- VS Code (with built-in preview)
-- [StackEdit](https://stackedit.io) (online)
-- [Markdown Guide](https://www.markdownguide.org) (full syntax reference)
-
----
-
-**Final File**: Save as `README.md` in your project’s root directory.  
-**Advanced Formatting**: For complex layouts, use HTML sparingly within Markdown.
